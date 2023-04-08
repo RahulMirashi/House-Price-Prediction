@@ -1,2 +1,2 @@
 # House-price-prediction
-House price prediction analysis using EDA and feature engineering
+House price prediction analysis, worked on EDA,feature engineering and feature selection
